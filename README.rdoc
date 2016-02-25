@@ -1,0 +1,11 @@
+Testing specifications for posts:
+title: string
+description: text
+issue_type: enum - issue or enhancement or feature
+priority: enum - low or medium or high
+status: enum - open or closed or monitor
+- title must be present
+- article must be present
+- defalt value of issue_type is feature
+- defalt value of priority is medium
+- defalt value of status is open
